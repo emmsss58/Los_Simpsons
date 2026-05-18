@@ -1,0 +1,19 @@
+# 1. Control de calidad de datos crudos
+
+## 1.1 Calidad de secuencias
+- Phred score medio:  
+- Observaciones:  
+
+## 1.2 Contenido GC
+- Valor medio:  
+- Distribución esperada vs observada:  
+
+## 1.3 Duplicación de secuencias
+- % duplicados:  
+- Interpretación:  
+
+## 1.4 Adaptadores
+- Presencia detectada: (Sí/No)  
+- Acción tomada (trimming):  
+
+## 1.5 Conclusión QC inicial

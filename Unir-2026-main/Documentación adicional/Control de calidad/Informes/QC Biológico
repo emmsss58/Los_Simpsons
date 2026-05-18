@@ -1,0 +1,18 @@
+# 3. Control de calidad biológico
+
+## 3.1 Correlación entre muestras
+- Método (Pearson/Spearman):  
+- Resultado:  
+
+## 3.2 Análisis PCA
+- Separación por grupos:  
+- Outliers detectados:  
+
+## 3.3 Clustering / Heatmap
+- Observaciones:  
+
+## 3.4 Batch effects
+- Detectados: (Sí/No)  
+- Corrección aplicada:  
+
+## 3.5 Conclusión QC biológico
