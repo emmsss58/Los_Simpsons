@@ -1,0 +1,19 @@
+brew install fastqc #instalar fastqc
+
+fastqc SelmaBouvier_R2.fastq.gz
+fastqc SelmaBouvier_R1.fastq.gz
+
+fastqc HomerSimpson_R2.fastq.gz
+fastqc HomerSimpson_R1.fastq.gz
+
+fastqc AbrahamSimpson_R2.fastq.gz
+fastqc AbrahamSimpson_R1.fastq.gz
+
+fastqc MargeSimpson_R2.fastq.gz
+fastqc MargeSimpson_R1.fastq.gz
+
+fastqc PattyBouvier_R2.fastq.gz
+fastqc PattyBouvier_R1.fastq.gz
+
+brew install multiqc #instalar multiqc
+multiqc . #desde la carpeta dondde estan los fastqc -> analiza todos
