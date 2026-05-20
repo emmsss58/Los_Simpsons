@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.10.1",
+    "index": "salmon_index",
+    "libType": "A",
+    "validateMappings": [],
+    "mates1": "raw_data/AbrahamSimpson_R1.fastq.gz",
+    "mates2": "raw_data/AbrahamSimpson_R2.fastq.gz",
+    "output": "salmon_quant/AbrahamSimpson",
+    "auxDir": "aux_info"
+}
