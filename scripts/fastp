@@ -1,0 +1,16 @@
+fastp \
+--in1 PattyBouvier_R1.fastq.gz \
+--in2 PattyBouvier_R2.fastq.gz \
+--out1 Trimmed/PattyBouvier_R1_filtered.fastq.gz \
+--out2 Trimmed/PattyBouvier_R2_filtered.fastq.gz \
+--detect_adapter_for_pe \
+--cut_front \
+--cut_tail \
+--cut_window_size 12 \
+--cut_mean_quality 20 \
+--length_required 35 \
+--json Trimmed/PattyBouvier.json \
+--html Trimmed/PattyBouvier.html \
+--thread 32
+
+#hacer lo mismo para cada personaje
