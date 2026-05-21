@@ -1,6 +1,7 @@
 # Preprocesamiento y control de calidad
 El preprocesamiento de los FASTQs se hizo con fastp. Se generaron reportes de calidad en formato HTML y JSON.
 Se hizo un control de calidad de los archivos RNA-seq FASTQ utilizando FastQC. Los resultados se resumieron con MultiQC para comparar más facilmente. FastQC se ejecutó por separado para cada personaje. El output son reportes HTML y archivos .zip por muestra
+
 -> fastqc/ → reportes individuales de FastQC para cada personaje
 -> multiqc/ → reporte resumen generado por MultiQC
 
