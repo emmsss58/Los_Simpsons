@@ -1,1 +1,0 @@
-Progreso real vs. planificado.
