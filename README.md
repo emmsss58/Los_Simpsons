@@ -56,7 +56,7 @@ La vía leptina-melanocortina resulta esencial en la comprensión de los element
 
 ### LEPR
 
-Este gen codifica para el receptor de la leptina, su mayor expreisón sugiere una mayor sensibilidad a la señal de saciedad. 
+Este gen codifica para el receptor de la leptina, su mayor expresión sugiere una mayor sensibilidad a la señal de saciedad. 
 
 ### SH2B1
 
@@ -94,7 +94,7 @@ Gen  asociado a predisposición a obesidad; influye en regulación del apetito y
 
 ### KSR2
 
-Implicado en la regulación del metabolismo energético y eficiencia energética celular; su alteración se asocia a menor gasto energético y a una mayor tendencia de acumulación de energía (grasa)
+Implicado en la regulación del metabolismo energético y eficiencia energética celular; su alteración se asocia a menor gasto energético y a una mayor tendencia de acumulación de energía (grasa).
 
 ### LEP
 
