@@ -44,27 +44,72 @@ El agrupamiento jerárquico separa correctamente ambos grupos, indicando que los
 
 Según la Organización Mundial de la Salud (OMS), la obesidad es una enfermedad crónica, caracterizada por un aumento de grasa corporal y asociada a un mayor riesgo para la salud.
 
-La clasificación actual de Obesidad propuesta por la OMS está basada en el Índice de Masa Corporal (IMC), el cual corresponde a la relación entre el peso expresado en kilos y el cuadrado de la altura, expresada en metros. De esta manera, las personas cuyo cálculo de IMC sea igual o superior a 30kg/m2 se consideran obesas.
+La clasificación actual de Obesidad propuesta por la OMS está basada en el Índice de Masa Corporal (IMC), el cual corresponde a la relación entre el peso expresado en kilos y el cuadrado de la altura, expresada en metros. De esta manera, las personas cuyo IMC sea igual o superior a 30kg/m2 se consideran obesas.
 
 Los análisis realizados indican que existen diferencias moleculares entre los grupos comparados, especialmente en genes relacionados con la regulación del apetito, la señalización lipídica y el balance energético. Esto sugiere que los grupos podrían presenar diferentes subtipos de obesidad. 
 
 El grupo Obeso1 presenta una mayor expresión de los genes LEPR, SH2B1, POMC, PCSK1 y TMEM18, los cuales están relacionados con la vía leptina-melanocortina, uno de los sistemas más importantes de regulación del apetito y gasto energético. Sin embargo, los pacientes del grupo Obeso2 presentan una mayor expresión de los genes MC4R, SIM1, FTO, KSR2 y LEP.
 
+La vía leptina-melanocortina resulta esencial en la comprensión de los elementos que actúan sobre la regulación de la ingesta. La producción de leptina se produce en el tejido adiposo blanco y circula en el plasma, atravesando la barrera hematoencefálica e interactuando con su receptor (LEPR), actuando como señal de reserva energética. En situaciones de exceso de leptina, se promueve la expresión de POMC, que se escinde en péptidos denominados melanocortinas (alfa-MSH, fi-MSH) que actúan como ligando al receptor 4 de melanocortina (MC4R).
+
 ## Grupo Obeso1
 
 ### LEPR
 
-Este gen codifica para el receptor de la leptina (hormona sintetizada por los adipocitos que regula eel balance etre la ingesta y el gasto de energía, mediante la supresión del apetito induciendo saciedad e incrementando el gasto energético). Según el análisis de los datos, los pacientes con Obesidad tipo 1 muestran una mayor expresión de este, por lo tanto una mayor cantidad de receptor de leptina. 
+Este gen codifica para el receptor de la leptina, su mayor expreisón sugiere una mayor sensibilidad a la señal de saciedad. 
 
-Esto puede interpretarse como un intento por compensar la resistencia a la leptina, donde a pesar de existir la hormona y su receptor, la señal de saciedad no se procesa y por lo tanto se contribuye al desarrollo de obesidad. 
+### SH2B1
 
+Se trata de un regulador intracelular clave en la señalización de la leptina e insulina. Potencia la vía activada por el gen mencionado anteriormente, LEPR, y participa en la regulación del metabolismo energético y la termogénesis. 
 
+### POMC
 
+Gen de importancia en el control de la saciedad; produce alfa-MSH, un péptido que activa la vía MC4R e inhibe la ingesta alimentaria. Una mayor expresión de este podría significar una activación de vías anorexigénicas (circuitos neurológicos y hormonales del cuerpo que suprimen el apetito e inducen la sensación de saciedad).
 
+### PCSK1
 
+Gen que codifica una enzima responsable del procesamieo del POMC y por lo tanto de la producción de alfa-MSH. Su incremento en el grupo Obeso1 puede significar una activación funcional del eje principal y del procesamiento relacionado con la saciedad. 
 
+### TMEM18
 
+El gen TMEM18 se expresa principalmente en el hipotálamo, la región del cerebro encargada de regular el hambre, la saciedad y el gasto energético. Un aumento en su expresión está relacionada, según estudios de GWAS, con una susceptibilidad genética a la obesidad.
 
+### Conclusiones
 
+Los resultados sugieren que este grupo presenta una activación aumentada de la vía leptina-melanocortina frente al exceso de energía. Aunque se sobreexpresan numerosos genes relacionados con la sensación de saciedad y la regulación energética, esta respuesta parece ser insuficiente por lo que podrían encontrarse en estado de resistencia a la leptina. 
+
+## Grupo Obeso2
+
+### MC4R
+
+Este gen codifica para el receptor 4 de melacortina, clave en la regulación del apetito y gasto energético. Su activación tiene un efecto anorexigénico (inhibición del apetito). Una mayor activación de la expresión del gen está relacionada con un intento de compensación de incrementar la señl de saciedad.
+
+### SIM1
+
+Factor de transcripción implicado en el desarrollo y función de núcleos hipotalámicos que regulan el apetito.
+
+### FTO
+
+Gen  asociado a predisposición a obesidad; influye en regulación del apetito y preferencia energética.
+
+### KSR2
+
+Implicado en la regulación del metabolismo energético y eficiencia energética celular; su alteración se asocia a menor gasto energético y a una mayor tendencia de acumulación de energía (grasa)
+
+### LEP
+
+Codifica leptina, hormona principal en la señalización del estado energético. Su mayor expresión puede reflejar mayor masa adiposa, pero también puede asociarse a resistencia a leptina.
+
+### Conclusiones
+
+Este grupo sugiere una respuesta compleja a la regulación del balance energético, existiendo activación de vías relacionadas con la inhibición del apetito, con genes que demuestran predisposición a obesidad. esto puede indicar una desregulación general del gasto energético. 
+
+## Comparación Obeso1 con Obeso2
+
+Como principal diferencia destaca una activación de la vía leptina-melanocortina en el grupo Obeso1, lo que puede interpretarse como una respuesta biológica ante la acumulación de energía; pero resultando ineficaz. Por otro lado, en el grupo Obeso2 podemos ver una predisposición genética, lo que sugiere que ocurre una descompensación más compleja.
+
+Ambos grupos muestran alteraciones en el mismo eje, aunque uno se debe a mecanismos fallidos y otro a múltiples factores, destacando predisposición genética. 
+
+# Bibliografía
 
 
