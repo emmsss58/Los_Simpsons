@@ -26,9 +26,7 @@ Grupos analizados:
   - Selma Bouvier
 
 ## Herramientas utilizadas
-Salmon
-tximport
-R
+Salmon, tximport y R
 
 ## Flujo de trabajo
 1. Indexado de la referencia: Se generó un índice de Salmon a partir del transcriptoma de referencia proporcionado. 
