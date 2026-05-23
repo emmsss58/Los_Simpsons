@@ -1,3 +1,9 @@
+# Introducción
+Identificación de genes diferencialmente expresados para comprender la base genética de la heterogeneidad metabólica en modelos simulados de obesidad entre las familias Simpson (Obeso 1) y Bouvier (Obeso 2).  Se plantea la hipótesis de que existen diferentes patrones de transcriptómica entre los grupos, explicando así sus diferentes perfiles metabólicos. 
+
+# Metodología
+Se realizó el preprocesamiento de los datos RNA-seq utilizando fastp para el control de calidad de los FASTQs, complementado con FastQC y la visualización global de resultados mediante MultiQC. Posteriormente, se llevaron a cabo análisis exploratorios y estadísticos, incluyendo un PCA que mostró una clara separación entre los grupos Obeso1 y Obeso2. Además, se generó un volcano plot para la identificación de genes diferencialmente expresados y heatmaps que evidenciaron patrones consistentes de expresión y permitieron el agrupamiento jerárquico de las muestras según su perfil transcriptómico. Finalmente se hizo una interpretación biológica. 
+
 # Preprocesamiento y control de calidad
 El preprocesamiento de los FASTQs se hizo con fastp. Se generaron reportes de calidad en formato HTML y JSON.
 Se hizo un control de calidad de los archivos RNA-seq FASTQ utilizando FastQC. Los resultados se resumieron con MultiQC para comparar más facilmente. FastQC se ejecutó por separado para cada personaje. El output son reportes HTML y archivos .zip por muestra
