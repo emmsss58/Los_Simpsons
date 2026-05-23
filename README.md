@@ -12,6 +12,36 @@ fastqc.filtered/ → reportes individuales de FastQC para cada personaje
 
 multiqc/ → reporte resumen generado por MultiQC
 
+# Pipeline de cuantificación RNA-seq — Obeso1 vs Obeso2
+Se realizó la cuantificación de la abundancia de transcritos a partir de lecturas RNA-seq paired-end, se generaron matrices de expresión génica y se prepararon los datos para el análisis de expresión diferencial posterior mediante DESeq2.
+
+## Diseño experimental
+Grupos analizados:
+- Obeso1
+  - Abraham Simpson
+  - Homer Simpson
+- Obeso2
+  - Marge Simpson
+  - Patty Bouvier
+  - Selma Bouvier
+
+## Herramientas utilizadas
+Salmon
+tximport
+R
+
+## Flujo de trabajo
+1. Indexado de la referencia: Se generó un índice de Salmon a partir del transcriptoma de referencia proporcionado. 
+
+2. Cuantificación de transcritos: Las lecturas paired-end RNA-seq fueron cuantificadas mediante pseudoalineamiento con Salmon.
+
+3. Resumen a nivel génico: Las abundancias a nivel de transcrito fueron importadas en R mediante tximport y agrupadas por gen usando el archivo de anotación Transcrito_a_Gen.tsv.
+
+## Archivos de salida
+- counts_matrix.csv:	Matriz de conteos génicos
+- tpm_matrix.csv:	Matriz de abundancia normalizada TPM
+- txi_salmon_gene_level.rds:	Objeto tximport para DESeq2
+
 # Gráficos para la visualización de los resultados
 
 ## PCA
