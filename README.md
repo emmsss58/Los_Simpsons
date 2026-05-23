@@ -112,4 +112,12 @@ Ambos grupos muestran alteraciones en el mismo eje, aunque uno se debe a mecanis
 
 # Bibliografía
 
-
+1. LEPR leptin receptor [ Homo sapiens (human) ] [Internet]. NCBI. 2026. Disponible en: https://www.ncbi.nlm.nih.gov/datasets/gene/3953/
+2. Obesidad por deficiencia del gen receptor de leptina [Internet]. National Organization For Rare Disorders. 2023. Disponible en: https://rarediseases.org/es/rare-diseases/obesidad-por-deficiencia-del-gen-receptor-de-leptina/
+3. Next-generation sequencing of the monogenic obesity genes LEP, LEPR, MC4R, PCSK1 and POMC in a Norwegian cohort of patients with morbid obesity and normal weight controls [Internet]. NIH. 2017. Disponible en: https://pubmed.ncbi.nlm.nih.gov/28377240/
+4. Jiang L, Su H, Wu X, Shen H, Kim MH, Li Y, et al. Leptin receptor-expressing neuron Sh2b1 supports sympathetic nervous system and protects against obesity and metabolic disease. Nature Communications [Internet]. 23 de marzo de 2020;11(1):1517. Disponible en: https://doi.org/10.1038/s41467-020-15328-3
+5. Moreno GM. Definición y clasificación de la obesidad. Revista Médica Clínica las Condes [Internet]. 1 de marzo de 2012;23(2):124-8. Disponible en: https://doi.org/10.1016/s0716-8640(12)70288-2
+6. Rui L. SH2B1 regulation of energy balance, body weight, and glucose metabolism. World Journal Of Diabetes [Internet]. 1 de enero de 2014;5(4):511. Disponible en: https://pmc.ncbi.nlm.nih.gov/articles/PMC4127586/
+7. Recepcion. OBESIDAD y GENÉTICA: CÓMO INFLUYEN TUS GENES EN EL PESO CORPORAL, EL METABOLISMO y LA RESPUESTA a LA DIETA [Internet]. Lorgen. 2025. Disponible en: https://www.lorgen.com/diagnostico-enfermedades-geneticas/obesidad-y-genetica-como-influyen-tus-genes-en-el-peso-corporal-el-metabolismo-y-la-respuesta-a-la-dieta/
+8. Wabitsch M, Farooqi S, Flück CE, Bratina N, Mallya UG, Stewart M, et al. Natural History of Obesity Due to POMC, PCSK1, and LEPR Deficiency and the Impact of Setmelanotide. Journal Of The Endocrine Society [Internet]. 15 de abril de 2022;6(6):bvac057. Disponible en: https://doi.org/10.1210/jendso/bvac057
+9. M JLS. Sistema leptina-melanocortinas en la regulación de la ingesta y el peso corporal. Revista Médica de Chile [Internet]. 1 de septiembre de 2009;137(9):1225-34. Disponible en: https://doi.org/10.4067/s0034-98872009000900014
